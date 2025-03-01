@@ -3,6 +3,11 @@
     font-size: 16px;
 }
 
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(1, 22, 36);
+}
+
 body {
     background-color: rgb(4, 78, 163);
 
