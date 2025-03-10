@@ -5,25 +5,23 @@
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(1, 22, 36);
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: small;
 }
 
 body {
-    background-color: rgb(4, 78, 163);
+    background-color: rgb(0, 0, 0);
 
-}
-
-img.lado {
-    float: right
-}
-
-img.esquerda {
-    float: left
 }
 
 main {
-    background-color: aliceblue;
-    width: 500px;
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.767);
