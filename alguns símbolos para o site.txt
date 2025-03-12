@@ -1,0 +1,24 @@
+Marcas, quebras, paragrafos, símbolos em HTML (capítulos 4 e 5)
+! + click enter = código base
+h1 + click enter = título
+p + click enter = parágrafo
+br + click enter = quebra de linha
+<!-- = comentario que não aparece no site
+emogis no site: emojipedia.org
+
+Símbolo Descrição Entitiy
+Espaço em branco &nbsp;
+® Marca registrada &reg;
+© Copyright &copy;
+™ Trade Mark &trade;
+€ Euro &euro;
+£ Libra (pound) &pound;
+¥ Yen &yen;
+¢ Cent &cent;
+∅ Vazio &empty;
+∑ Soma &sum;
+Δ Delta &Delta;
+← Seta esquerda &larr;
+↑ Seta acima &uarr;
+→ Seta direita &rarr;
+↓ Seta baixo &darr;
